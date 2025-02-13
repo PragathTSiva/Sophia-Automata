@@ -19,6 +19,7 @@ This approach significantly enhances the research experience by making it easier
 ### Modules
 
 1. **Browser Automation**  
+   - Utilizes the Browser Use framework for LLM browser automation.
    - Manages the initialization of a browser instance and automatically opens two windows:
      - Window 1 with research links and educational videos.
      - Window 2 with a Google Doc for summarizing and note-taking.
