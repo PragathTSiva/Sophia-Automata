@@ -1,0 +1,7 @@
+article_research_task:
+  description: Find and analyze research articles and papers related to {topic}
+  expected_output: A list of at exactly 3 links to different research articles or papers. None of the output can have the same title as the {topic}
+
+video_research_task:
+  description: Find educational videos and presentations related to {topic}
+  expected_output: A list of at exactly 2 links to different video sources (preferably from YouTube). None of the output can have the same title as the {topic}
