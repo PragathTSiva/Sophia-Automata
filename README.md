@@ -116,4 +116,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Pragath Siva - pragathtsiva@gmail.com
 
-Project Link: [[https://github.com/yourusername/your-repo](https://github.com/yourusername/your-repo](https://github.com/PragathTSiva/Sophia-Automata.git))
+Project Link: [https://github.com/PragathTSiva/Sophia-Automata.git](https://github.com/PragathTSiva/Sophia-Automata.git)
